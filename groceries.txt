@@ -8,3 +8,4 @@ flour
 sugar
 vinegar
 rice
+ketchup
