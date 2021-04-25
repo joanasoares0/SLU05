@@ -7,3 +7,4 @@ eggs for pudding
 flour
 sugar
 vinegar
+rice
